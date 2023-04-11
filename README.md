@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**daymadi833/daymadi833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/3BR9JfSiZOp6E/giphy.gif" width="100"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<h1>
+  About me!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="600" height="300"/>
+</div>
+
+## :star2:  About Me :
+- :cyclone: weather research
+- :guitar: guitar playing 
+- :taurus: I'm a Taurus 
+
+ ---
+
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+
+</div> 
+ 
